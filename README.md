@@ -10,14 +10,14 @@ The app consists of three screens as desbribed below:
 Displays the Adidas logo and is based on a GestureDetector widget so the user can click anywhere in the page to navigate
 to the next page
 
-![Entry](entry.pgn)
+![Entry](entry.png)
 
 # The Products
 
 Displays the products available in the store, I did very simple so its based on images in the assets directory.
 Every Card widget has a GestureDetector wich on tap navigates do the product view
 
-![Products](products.png)
+![Products](shop.png)
 
 # Product view
 
